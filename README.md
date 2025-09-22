@@ -1,149 +1,143 @@
-# 👋 ¡Hola! Soy Samuel David Sánchez Cárdenas
+<!-- ====================================================== -->
+<!--   README de Perfil - Samuel David Sanchez Cardenas     -->
+<!--   Diseño 2 columnas: foto/bio + contenido              -->
+<!-- ====================================================== -->
 
-### Bogotá, Colombia | Investigador en Sensores, Control e Inteligencia Artificial | Coordinador de proyectos estudiantiles en Bioingeniería y Prótesis
+<!-- Banner superior con foto -->
+<div align="center">
+  <img src="img/profile.jpg" alt="Profile" width="200" style="border-radius: 50%; border: 3px solid #3b82f6;" />
+
+  <h1 style="color:#3b82f6;">👋 ¡Hola! Soy Samuel David Sánchez Cárdenas</h1>
+  <p style="font-size:20px;">Ingeniero en formación | CAD & Simulación | Automatización | IoT | Control</p>
+
+  <!-- Botones de idioma -->
+  <a href="#espanol"><img src="https://img.shields.io/badge/Español-🇪🇸-0f172a?style=for-the-badge&labelColor=111827&color=3b82f6" /></a>
+  <a href="#english"><img src="https://img.shields.io/badge/English-🇬🇧-0f172a?style=for-the-badge&labelColor=111827&color=8b5cf6" /></a>
+  <a href="#deutsch"><img src="https://img.shields.io/badge/Deutsch-🇩🇪-0f172a?style=for-the-badge&labelColor=111827&color=9333ea" /></a>
+</div>
+
+---
+
+<!-- Layout en dos columnas -->
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 📌 Sobre mí / About me / Über mich
+
+### 🇪🇸 Español {#espanol}
+Soy estudiante de Ingeniería con pasión por el **diseño CAD**, la **automatización**, la **robótica** y los **sistemas embebidos**. Me gusta integrar hardware y software para crear soluciones innovadoras y sostenibles.  
+
+- 🎓 Formación en **Ingeniería Mecatrónica (UNAL)**  
+- ⚡ Experiencia en proyectos con **Arduino, PIC, ESP32, FPGA**  
+- 🌍 Interés en energías sostenibles e IoT  
+- 📚 Aprendizaje continuo en **control automático y simulación**  
 
 ---
 
-🎓 **Estudiante de Ingeniería Mecatrónica**  
-Universidad Nacional de Colombia (Noveno semestre, graduación esperada: Julio 2026)  
-Listado en los mejores promedios (P.A.P.A.: 4.6) | Beca por excelencia académica  
-📊 **Monitor de Finanzas** – Universidad Nacional de Colombia (desde 2025)
+### 🇬🇧 English {#english}
+I am an engineering student passionate about **CAD design**, **automation**, **robotics**, and **embedded systems**. I enjoy integrating hardware and software to create innovative and sustainable solutions.  
+
+- 🎓 Background in **Mechatronics Engineering (UNAL)**  
+- ⚡ Experience in **Arduino, PIC, ESP32, FPGA** projects  
+- 🌍 Interest in **sustainable energy and IoT**  
+- 📚 Continuous learning in **control systems and simulation**  
 
 ---
 
-## 🚀 ¿Quién soy?
+### 🇩🇪 Deutsch {#deutsch}
+Ich bin ein Ingenieurstudent mit Leidenschaft für **CAD-Design**, **Automatisierung**, **Robotik** und **eingebettete Systeme**. Ich kombiniere gerne Hardware und Software, um innovative und nachhaltige Lösungen zu entwickeln.  
 
-Apasionado por el diseño mecánico, la automatización y los sistemas inteligentes.  
-Actualmente soy **investigador** en el grupo de Sensores, Control e Inteligencia Artificial (Kyma) de la Universidad Nacional de Colombia, **coordinador** de un grupo estudiantil de investigación enfocado en bioingeniería, prótesis y sensores, y **monitor** de la materia de Finanzas.
-
-Me destaco por mi atención al detalle, compromiso y ambición. Disfruto el trabajo en equipo, los retos y el aprendizaje continuo en cada proyecto.
+- 🎓 Ausbildung in **Mechatronik-Ingenieurwesen (UNAL)**  
+- ⚡ Erfahrung mit **Arduino-, PIC- und ESP32-Projekten**  
+- 🌍 Interesse an **nachhaltiger Energie und IoT**  
+- 📚 Ständiges Lernen in **Regelungstechnik und Simulation**  
 
 ---
+
+## 🌐 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![Portfolio](https://img.shields.io/badge/Portafolio-3b82f6?style=for-the-badge&logo=firefox&logoColor=white)](https://TU_PORTAFOLIO.github.io)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO)
+
+---
+
+</td>
+<td width="45%" valign="top">
 
 ## 🛠️ Habilidades principales
 
-- **Diseño CAD & Simulación:** Inventor, Fusion 360, AutoCAD, ANSYS, AutoCAD Electrical, Cade Simu, FluidSIM
-- **Automatización y Robótica:** Studio 5000, RobotStudio
-- **Prototipado & Electrónica:** Arduino, ESP32, FPGA, Verilog, C, Java, VS, MPLAB (C & Assembly)
-- **Simulación & Modelado Dinámico:** Matlab, Python
-- **Idiomas:** Español (Nativo), Inglés (C1), Alemán (B1)
+### 🎨 Diseño CAD & Simulación
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+![Inventor](https://img.shields.io/badge/Inventor-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-F48C06?style=for-the-badge&logo=autodesk&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+![FluidSIM](https://img.shields.io/badge/FluidSIM-0A66C2?style=for-the-badge&logo=siemens&logoColor=white)
 
 ---
 
-## 🔬 Experiencia & Liderazgo
+### 🤖 Automatización & Robótica
+![Studio 5000](https://img.shields.io/badge/Studio_5000-007ACC?style=for-the-badge&logo=rockwellautomation&logoColor=white)
+![RobotStudio](https://img.shields.io/badge/RobotStudio-FF6F00?style=for-the-badge&logo=abbrobotics&logoColor=white)
 
-- **Investigador** – Grupo Kyma, UNAL (IA)
-- **Coordinador** – Grupo estudiantil de bioingeniería, prótesis y sensores
-- **Monitor** – Finanzas, Universidad Nacional de Colombia (desde 2025)
-- **Miembro** – Kyma, Protos Unal
+---
+
+### 🔧 Prototipado & Electrónica
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-2C2255?style=for-the-badge&logo=xilinx&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MPLAB](https://img.shields.io/badge/MPLAB-CC0000?style=for-the-badge&logo=microchip&logoColor=white)
+
+---
+
+### 📊 Modelado dinámico & Software
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🌍 Idiomas
+![Español](https://img.shields.io/badge/Español-Nativo-FF0000?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Inglés](https://img.shields.io/badge/Inglés-C1-00247D?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Alemán](https://img.shields.io/badge/Alemán-B1-000000?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+---
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Estadísticas de GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical&ring=FF6F00&fire=3b82f6&currStreakLabel=ffffff" height="160"/>
+</div>
 
 ---
 
 ## 🏆 Proyectos destacados
-
-### 🎹 SynthIce: Sintetizador FPGA para audio digital
-- Líder y programador en el diseño e implementación de un sintetizador de audio digital completamente basado en FPGA (Verilog, sensores mecánicos, diseño 3D).
-
-### 🌱 Sistema IoT LoRaWAN para monitoreo ambiental
-- Desarrollo de un sistema de monitoreo remoto de calidad del aire usando LoRa, ESP32 y ArduinoCloud.
-
-### ❄️ Optimización de refrigeración líquida por FEA
-- Simulación y optimización de sistemas de refrigeración líquida de PC usando ANSYS Fluent y Granta, modelado CAD y análisis de transferencia de calor.
+- 🎹 **SynthIce** – Sintetizador digital con FPGA y sensores mecánicos  
+- 🌱 **IoT LoRaWAN** – Sistema remoto de monitoreo ambiental  
+- ❄️ **Enfriamiento Líquido (FEA)** – Optimización térmica con ANSYS y CAD  
 
 ---
 
-## 💡 Intereses
-
-- Diseño mecánico y 3D
-- Automatización y control de sistemas dinámicos
-- Bioingeniería y desarrollo de prótesis inteligentes
-- Inteligencia artificial aplicada a sistemas y control
-
----
-
-## 🎷 Más allá de la ingeniería
-
-- Apasionado por el saxofón alto y el jazz 🎶
-- Curioso y autodidacta constante
+## 🎶 Intereses
+- Diseño mecánico 3D  
+- Control automático y sistemas dinámicos  
+- Bioingeniería & prótesis inteligentes  
+- IA aplicada a sistemas y control  
+- 🎷 Saxofón alto y jazz  
 
 ---
 
-> **"La innovación nace de la pasión por aprender y el deseo de mejorar el mundo, un proyecto a la vez."**
+## 🙌 Agradecimientos
+✨ *“La innovación nace de la pasión por aprender y el deseo de mejorar el mundo, un proyecto a la vez.”* ✨  
 
----
-
----
-
-# 👋 Hi! I'm Samuel David Sánchez Cárdenas
-
-### Bogotá, Colombia | Researcher in Sensors, Control & Artificial Intelligence | Coordinator of Student Projects in Bioengineering & Prosthetics
-
----
-
-🎓 **Mechatronics Engineering Student**  
-National University of Colombia (9th semester, expected graduation: July 2026)  
-Listed among the top students (GPA: 4.6) | Academic Excellence Scholarship  
-📊 **Finance Lab Assistant** – National University of Colombia (since 2025)
-
----
-
-## 🚀 Who am I?
-
-Passionate about mechanical design, automation, and intelligent systems.  
-Currently a **researcher** in the Sensors, Control & Artificial Intelligence group (Kyma) at the National University of Colombia, **coordinator** of a student research group focused on bioengineering, prosthetics, and sensors, and a **finance lab assistant**.
-
-I'm known for my attention to detail, commitment, and ambition. I enjoy teamwork, challenges, and continuous learning in every project I lead.
-
----
-
-## 🛠️ Main Skills
-
-- **CAD Design & Simulation:** Inventor, Fusion 360, AutoCAD, ANSYS, AutoCAD Electrical, Cade Simu, FluidSIM
-- **Automation & Robotics:** Studio 5000, RobotStudio
-- **Prototyping & Electronics:** Arduino, ESP32, FPGA, Verilog, C, Java, VS, MPLAB (C & Assembly)
-- **Dynamic Systems Modeling & Simulation:** Matlab, Python
-- **Languages:** Spanish (Native), English (C1), German (B1)
-
----
-
-## 🔬 Experience & Leadership
-
-- **Researcher** – Kyma Group, UNAL (AI)
-- **Coordinator** – Student group in bioengineering, prosthetics & sensors
-- **Lab Assistant** – Finance, National University of Colombia (since 2025)
-- **Member** – Kyma, Protos Unal
-
----
-
-## 🏆 Featured Projects
-
-### 🎹 SynthIce: FPGA-based Digital Audio Synthesizer
-- Leader and developer in the design and implementation of a fully FPGA-based digital audio synthesizer (Verilog, mechanical sensors, 3D design).
-
-### 🌱 IoT LoRaWAN System for Environmental Monitoring
-- Developed a remote air quality monitoring system using LoRa, ESP32, and ArduinoCloud.
-
-### ❄️ Liquid Cooling Optimization by FEA
-- Simulation and optimization of PC liquid cooling systems using ANSYS Fluent and Granta, CAD modeling, and heat transfer analysis.
-
----
-
-## 💡 Interests
-
-- Mechanical and 3D design
-- Automation and dynamic systems control
-- Bioengineering and smart prosthesis development
-- Artificial intelligence applied to control and systems
-
----
-
-## 🎷 Beyond Engineering
-
-- Passionate alto saxophonist and jazz lover 🎶
-- Curious and constant self-learner
-
----
-
-> **"Innovation is born from the passion for learning and the desire to improve the world, one project at a time."**
-
----
+Gracias por visitar mi perfil 🚀.  
+Siéntete libre de explorar mis repositorios, contribuir o conectar conmigo en mis redes.  
