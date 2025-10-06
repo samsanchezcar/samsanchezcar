@@ -6,13 +6,6 @@
   <!-- Animated Typing -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=800&lines=CAD+and+Design+Expert;AI+and+Bioengineering+Researcher;Automation+and+Control+Systems+Expert;IoT+Solutions+Architect;RL+for+Control+Systems" alt="Typing SVG" />
 
-  <!-- Modern Language Selector -->
-  <p>
-    <img src="https://img.shields.io/badge/🇪🇸_Español-1a1b27?style=for-the-badge&logo=googletranslate&logoColor=4285F4" alt="Español"/>
-    <img src="https://img.shields.io/badge/🇬🇧_English-1a1b27?style=for-the-badge&logo=googletranslate&logoColor=4285F4" alt="English"/>
-    <img src="https://img.shields.io/badge/🇩🇪_Deutsch-1a1b27?style=for-the-badge&logo=googletranslate&logoColor=4285F4" alt="Deutsch"/>
-  </p>
-
   <!-- Modern Social Links with Hover Effects -->
   <p>
     <a href="mailto:samsanchezcar@gmail.com">
@@ -163,10 +156,6 @@ Ich bin Student der **Mechatronik** an der **Nationalen Universität Kolumbiens 
 - Bewertung der Auswirkungen von Knochenvorsprüngen auf Residualgliedmaßen
 - Koordination mit klinischen Mitarbeitern und Protokollentwicklung
 
-#### 📚 **Tutor** - Finanzen (2025-heute)
-- Lehrassistenz für Finanzkurs
-- Studentenbetreuung und Entwicklung von Lehrmaterial
-
 ### 🚀 Hervorgehobene Projekte
 
 - **🎹 SynthIce**: FPGA-basierter digitaler Synthesizer mit mechanischen Sensoren
@@ -200,6 +189,7 @@ Ich bin Student der **Mechatronik** an der **Nationalen Universität Kolumbiens 
   <!-- Trophy Cabinet -->
   <img src="https://github-profile-trophy.vercel.app/?username=samsanchezcar&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" width="95%" />
   
+  
 </div>
 
 </td>
@@ -211,7 +201,7 @@ Ich bin Student der **Mechatronik** an der **Nationalen Universität Kolumbiens 
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,julia&perline=6" />
 </p>
 
 ### Web Technologies
