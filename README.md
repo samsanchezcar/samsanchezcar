@@ -238,13 +238,13 @@ Ich bin Student der **Mechatronik** an der **Nationalen Universität Kolumbiens 
   <!-- Achievement Cards -->
   <img src="https://img.shields.io/badge/📚_GPA_4.6/5.0-Academic_Excellence-gold?style=for-the-badge&labelColor=1a1b27" />
   
-  <img src="https://img.shields.io/badge/🧑‍🏫_Teaching_Assistant-Finance_SINCE-2025-0EA5E9?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🧑‍🏫_Teaching_Assistant-Finance-SINCE-2025-0EA5E9?style=for-the-badge&labelColor=1a1b27" />
   
   <img src="https://img.shields.io/badge/🔬_Researcher-Kyma_Lab-8B5CF6?style=for-the-badge&labelColor=1a1b27" />
   
   <img src="https://img.shields.io/badge/🦾_Coordinator-Protos_UNAL-F59E0B?style=for-the-badge&labelColor=1a1b27" />
   
-  <img src="https://img.shields.io/badge/🎓_Expected_Graduation-July_2026-10B981?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🎓_Expected_Graduation-July_2027-10B981?style=for-the-badge&labelColor=1a1b27" />
   
 </div>
 
