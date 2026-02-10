@@ -238,7 +238,7 @@ Ich bin Student der **Mechatronik** an der **Nationalen Universität Kolumbiens 
   <!-- Achievement Cards -->
   <img src="https://img.shields.io/badge/📚_GPA_4.6/5.0-Academic_Excellence-gold?style=for-the-badge&labelColor=1a1b27" />
   
-  <img src="https://img.shields.io/badge/🧑‍🏫_Teaching_Assistant-Finance_2025-0EA5E9?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🧑‍🏫_Teaching_Assistant-Finance_SINCE-2025-0EA5E9?style=for-the-badge&labelColor=1a1b27" />
   
   <img src="https://img.shields.io/badge/🔬_Researcher-Kyma_Lab-8B5CF6?style=for-the-badge&labelColor=1a1b27" />
   
@@ -255,17 +255,18 @@ Ich bin Student der **Mechatronik** an der **Nationalen Universität Kolumbiens 
 ### 🔬 Research & Development
 - **Reinforcement Learning Control Systems** - Developing RL-based controllers for industrial plant optimization at Kyma Lab
 - **Prosthetic Sensing Technology** - Designing and calibrating FSR sensor arrays for residual limb analysis with Protos UNAL
+- **Robotic Serial Manipulators** - Reengineering, designing and manufacturing a 6R Robotic ARM.
 
 ### 📚 Currently Learning
-- **Advanced Control Theory** - Nonlinear systems, optimal control, and robust control techniques
+- **Advanced Control Theory** - Nonlinear systems, Feedforward and robust control techniques
 - **Cloud Architecture** - AWS, Google Cloud Platform, and infrastructure as code
 - **ROS2** - Robot Operating System for autonomous systems development
 - **RL** - RLlib and Gymnasium
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
 - ✅ Complete Turing Project deployment and validation
+- ✅ Complete Apolo (6R Robotic ARM) implementation.
 - 📝 Publish research paper on FSR sensor arrays for prosthetics
-- 🚀 Contribute to 5+ open source robotics and IoT projects
 - 🎓 Maintain 4.6+ GPA through graduation
 
 ---
@@ -279,7 +280,7 @@ Ich bin Student der **Mechatronik** an der **Nationalen Universität Kolumbiens 
 | Alto Sax (Jazz) | ES (Native) | Windows|
 | Mountain Hiking | EN (C1) | Linux Mint|
 | 3D Printing | DE (B1) | Android|
-| Coffee Brewing |  | |
+| Coffee Brewing |  | Ubuntu |
 
 </div>
 
