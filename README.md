@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/header.svg" width="100%" alt="Header"/>
-
+<img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/divider.svg" width="100%" alt="divider"/>
 <br/>
 
 <a href="mailto:samsanchezcar@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d1a?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
@@ -11,13 +11,11 @@
 <a href="https://instagram.com/ssz_2206"><img src="https://img.shields.io/badge/Instagram-0d0d1a?style=for-the-badge&logo=instagram&logoColor=E1306C"/></a>
 <a href="https://orcid.org/0009-0007-7781-9128"><img src="https://img.shields.io/badge/ORCID-0d0d1a?style=for-the-badge&logo=orcid&logoColor=A6CE39"/></a>
 
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=samsanchezcar&style=flat-square&color=7c3aed&label=Profile+Views"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/divider.svg" width="100%" alt="divider"/>
+
 
 </div>
 
@@ -123,8 +121,6 @@ Apollo: 6-DOF PAROL6 · ROS 2 + MoveIt 2 · Turing: RL-Regler · Sim-to-Real · 
 
 </details>
 
-<img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/divider.svg" width="100%" alt="divider"/>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -134,8 +130,6 @@ Apollo: 6-DOF PAROL6 · ROS 2 + MoveIt 2 · Turing: RL-Regler · Sim-to-Real · 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsanchezcar&hide_border=true&background=0d0d1a&ring=7C3AED&fire=67e8f9&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6272a4&stroke=0d0d1a" width="72%"/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samsanchezcar&bg_color=0d0d1a&color=A78BFA&line=67e8f9&point=A78BFA&area=true&area_color=1a0a2e&hide_border=true&radius=6" width="97%"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=samsanchezcar&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 </div>
 
 </td>
@@ -144,11 +138,37 @@ Apollo: 6-DOF PAROL6 · ROS 2 + MoveIt 2 · Turing: RL-Regler · Sim-to-Real · 
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/skills.svg" width="100%" alt="Skills"/>
-</div>
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,julia&perline=6&theme=dark" />
+</p>
 
-<img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/divider.svg" width="100%" alt="divider"/>
+### Web
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5&theme=dark" />
+</p>
+
+### Dev Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,linux,latex&perline=5&theme=dark" />
+</p>
+
+### Design & CAD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=autocad,blender,ps,ai,figma&perline=5&theme=dark" />
+</p>
+
+### Specialized
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS_2-1a1a2e?style=flat-square&logo=ros&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/MoveIt_2-1a1a2e?style=flat-square&logo=ros&logoColor=7C3AED" />
+  <img src="https://img.shields.io/badge/ANSYS-1a1a2e?style=flat-square&logo=ansys&logoColor=FFB71B" />
+  <img src="https://img.shields.io/badge/Fusion_360-1a1a2e?style=flat-square&logo=autodesk&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/ESP32-1a1a2e?style=flat-square&logo=espressif&logoColor=E7352C" />
+  <img src="https://img.shields.io/badge/FPGA-1a1a2e?style=flat-square&logo=xilinx&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Simulink-1a1a2e?style=flat-square&logo=mathworks&logoColor=0076A8" />
+  <img src="https://img.shields.io/badge/Studio_5000-1a1a2e?style=flat-square&logo=siemens&logoColor=C4B5FD" />
+</p>
 
 ## 🏆 Achievements
 
@@ -165,8 +185,6 @@ Apollo: 6-DOF PAROL6 · ROS 2 + MoveIt 2 · Turing: RL-Regler · Sim-to-Real · 
   <br/>
   <img src="https://img.shields.io/badge/🎓_Graduation-July_2027-4C1D95?style=for-the-badge&labelColor=0d0d1a"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/divider.svg" width="100%" alt="divider"/>
 
 ## 🎯 Current Focus
 
@@ -187,8 +205,6 @@ Apollo: 6-DOF PAROL6 · ROS 2 + MoveIt 2 · Turing: RL-Regler · Sim-to-Real · 
 - 📝 Publish Turing project research paper
 - 🎓 Graduate · GPA 4.6+
 
-<img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/divider.svg" width="100%" alt="divider"/>
-
 ## 💡 Quick Facts
 
 | 🎷 Hobbies | 🌍 Languages | 💻 OS |
@@ -197,8 +213,6 @@ Apollo: 6-DOF PAROL6 · ROS 2 + MoveIt 2 · Turing: RL-Regler · Sim-to-Real · 
 | Mountain Hiking | EN — C1 | Linux Mint |
 | 3D Printing | DE — B1 | Ubuntu |
 | Coffee Brewing | | Android |
-
-<img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/divider.svg" width="100%" alt="divider"/>
 
 ## 📫 Connect
 
@@ -215,7 +229,9 @@ Apollo: 6-DOF PAROL6 · ROS 2 + MoveIt 2 · Turing: RL-Regler · Sim-to-Real · 
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/divider.svg" width="100%" alt="divider"/>
+
+
 
 ## 🚀 Featured Projects
 
@@ -294,13 +310,7 @@ Figure tracing on a conveyor — RobotStudio, RAPID programming, custom 3D-print
 
 </div>
 
-> ⚠️ **Git LFS** — GIFs in `src/` are large (up to 190 MB). Run before pushing:
-> ```bash
-> git lfs install && git lfs track "src/*.gif" && git add .gitattributes
-> ```
-
----
-
+<img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/divider.svg" width="100%" alt="divider"/>
 <div align="center">
   <img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/footer.svg" width="100%" alt="Footer"/>
 </div>
