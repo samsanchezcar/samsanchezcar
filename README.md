@@ -1,27 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1c2e,30:1a3354,60:1e4d7b,100:2980b9&height=300&section=header&text=Samuel%20David%20Sanchez%20Cardenas&fontSize=42&fontAlignY=40&fontColor=e8f4fd&fontStyle=bold&animation=fadeIn&desc=Mechatronics%20Engineering%20%E2%80%A2%20UNAL%20%E2%80%A2%20Bogot%C3%A1&descSize=17&descAlignY=60&descColor=aed6f1&stroke=2980b9&strokeWidth=1" width="100%"/>
+<!-- ═══════════ HEADER — typing SVG as main title ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=110&lines=Samuel+David+Sanchez+Cardenas;Mechatronics+Engineer+%7C+UNAL+%7C+Bogot%C3%A1" alt="Header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=7FB3D3&center=true&vCenter=true&multiline=false&width=820&height=35&lines=Robotics+Research+Intern+%40+KYMA+Lab+·+ROS+2+%2B+MoveIt+2;Designing+a+6-DOF+Manipulator+%2B+Digital+Twin+from+scratch;Reinforcement+Learning+for+Industrial+Control+Systems;Embedded+Systems+·+FPGA+·+ESP32+·+ANSYS+·+CAD%2FCFD;10th+semester+·+GPA+4.6%2F5.0+·+Merit+Scholarship+·+UNAL" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&random=false&width=900&height=40&lines=Robotics+%26+ROS+2+%7C+Embedded+Systems+%7C+CAD+%26+Simulation+%7C+AI+%26+Control" alt="Subtitle"/>
 
 <br/>
 
-<a href="mailto:samsanchezcar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0f1c2e?style=for-the-badge&logo=gmail&logoColor=7fb3d3"/></a>
-<a href="https://linkedin.com/in/samuel-sanchez-cardenas"><img src="https://img.shields.io/badge/-LinkedIn-0f1c2e?style=for-the-badge&logo=linkedin&logoColor=7fb3d3"/></a>
-<a href="https://samsanchezcar.github.io"><img src="https://img.shields.io/badge/-Portfolio-0f1c2e?style=for-the-badge&logo=google-chrome&logoColor=7fb3d3"/></a>
-<a href="https://github.com/samsanchezcar"><img src="https://img.shields.io/badge/-GitHub-0f1c2e?style=for-the-badge&logo=github&logoColor=7fb3d3"/></a>
-<a href="https://instagram.com/ssz_2206"><img src="https://img.shields.io/badge/-Instagram-0f1c2e?style=for-the-badge&logo=instagram&logoColor=7fb3d3"/></a>
-<a href="https://orcid.org/0009-0007-7781-9128"><img src="https://img.shields.io/badge/-ORCID-0f1c2e?style=for-the-badge&logo=orcid&logoColor=a6ce39"/></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- Social Badges -->
+<a href="mailto:samsanchezcar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://linkedin.com/in/samuel-sanchez-cardenas">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
+</a>
+<a href="https://samsanchezcar.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=C4B5FD"/>
+</a>
+<a href="https://github.com/samsanchezcar">
+  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=DDD6FE"/>
+</a>
+<a href="https://instagram.com/ssz_2206">
+  <img src="https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
+</a>
+<a href="https://orcid.org/0009-0007-7781-9128">
+  <img src="https://img.shields.io/badge/ORCID-1a1a2e?style=for-the-badge&logo=orcid&logoColor=A6CE39"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=samsanchezcar&style=flat-square&color=1e4d7b&label=Profile+Views"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samsanchezcar&bg_color=0f1c2e&color=7fb3d3&line=1e4d7b&point=2980b9&area=true&area_color=1a3354&hide_border=true&radius=6" width="98%"/>
+<img src="https://komarev.com/ghpvc/?username=samsanchezcar&style=flat-square&color=7c3aed&label=Profile+Views"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -29,16 +45,16 @@
 <tr>
 <td width="64%" valign="top">
 
-## About
-
-I'm a 10th-semester **Mechatronics Engineering** student at the **National University of Colombia**, GPA **4.6/5.0**, merit scholarship and honor roll since 2025. I build things that physically exist and intelligently behave — serial manipulators, rehab devices, control algorithms, embedded systems.
-
-Currently a **Robotics Research Intern at KYMA Lab** with two active projects: a 6-DOF serial manipulator with full ROS 2 + MoveIt 2 digital twin (Apollo), and RL-based controllers for industrial plants (Turing). I also co-lead **Protsen 3.0** at Protos UNAL — a 4-DOF wrist rehabilitation device with FSR pressure mapping.
+## 🌍 About Me
 
 <details open>
 <summary><b>🇬🇧 English</b></summary>
 
-#### Specialization
+I'm a 10th-semester **Mechatronics Engineering** student at the **National University of Colombia (UNAL)** — GPA **4.6/5.0**, merit scholarship and honor roll since 2025. I build things at the crossroads of mechanical design, electronics, and software: robotic arms, rehab devices, embedded systems, and control algorithms.
+
+Currently a **Robotics Research Intern at KYMA Lab**, leading two projects: a 6-DOF serial manipulator with full ROS 2 + MoveIt 2 digital twin (Apollo), and RL-based controllers for industrial plants (Turing). I also co-lead **Protsen 3.0** at Protos UNAL — a 4-DOF wrist rehabilitation device with FSR pressure mapping.
+
+### Specialization
 
 - **Robotics & Manipulators** — 6-DOF serial arms, ROS 2 (Humble/Jazzy), MoveIt 2, URDF, digital twins, HIL
 - **Embedded Systems** — ESP32, PIC18F4550, FPGA, Arduino, Raspberry Pi, BLE / LoRaWAN
@@ -46,23 +62,22 @@ Currently a **Robotics Research Intern at KYMA Lab** with two active projects: a
 - **Control & Automation** — PLCs (Studio 5000), MATLAB/Simulink, PID, SCADA, Grafcet
 - **AI / RL** — Reinforcement Learning for control systems (RLlib, Gymnasium)
 
-#### Experience
+### Experience
 
 **KYMA Research Group** — Robotics Research Intern *(Feb 2026 – Present)*
-- **Apollo:** 6-DOF PAROL6 arm — CAD, 3D printing, mechatronic integration, digital twin in ROS 2 + MoveIt 2
+- **Apollo:** 6-DOF PAROL6 arm — full CAD, 3D printing, mechatronic integration, digital twin in ROS 2 + MoveIt 2
 - **Turing:** RL controllers for industrial plant control — sim-to-real transfer, HIL experiments
 
 **Protos UNAL** — Sub-coordinator, Protsen 3.0 *(2025 – Present)*
-- 4-DOF wrist rehabilitation device with ESP32 and stepper motors
-- FSR sensor array calibration for residual limb prosthetic pressure mapping
+- 4-DOF wrist rehab device · ESP32 · FSR sensor array pressure mapping
 
 **Teaching Assistant** — Finance & Engineering Economics, UNAL *(May 2025 – Present)*
 
 **Student Representative** — Mechatronics Engineering *(Mar 2026 – Present)*
 
-#### Education
+### Education
 
-**Mechatronics Engineering** — Universidad Nacional de Colombia *(2021 – Expected Jul 2027)*
+**Mechatronics Engineering** — Universidad Nacional de Colombia *(2021 – Jul 2027)*
 GPA 4.6/5.0 · Merit scholarship & honor roll since 2025
 
 **IB Diploma** — Colegio San Viator Bilingüe Internacional *(2009 – 2021)*
@@ -72,7 +87,9 @@ GPA 4.6/5.0 · Merit scholarship & honor roll since 2025
 <details>
 <summary><b>🇪🇸 Español</b></summary>
 
-#### Especialización
+Estudiante de 10° semestre de **Ingeniería Mecatrónica** en la **UNAL** — promedio **4.6/5.0**, beca de mérito y lista de honor desde 2025. Construyo en la intersección de diseño mecánico, electrónica y software.
+
+### Especialización
 
 - **Robótica y Manipuladores** — Brazos 6-DOF, ROS 2, MoveIt 2, URDF, gemelos digitales, HIL
 - **Sistemas Embebidos** — ESP32, PIC18F4550, FPGA, Arduino, Raspberry Pi, BLE / LoRaWAN
@@ -80,50 +97,47 @@ GPA 4.6/5.0 · Merit scholarship & honor roll since 2025
 - **Control y Automatización** — PLCs (Studio 5000), MATLAB/Simulink, PID, SCADA, Grafcet
 - **IA / RL** — Reinforcement Learning para control (RLlib, Gymnasium)
 
-#### Experiencia
+### Experiencia
 
 **Grupo KYMA** — Practicante de Investigación en Robótica *(Feb 2026 – Presente)*
 - **Apolo:** brazo PAROL6 6-DOF — CAD, impresión 3D, gemelo digital en ROS 2 + MoveIt 2
-- **Turing:** controladores RL para plantas industriales — sim-to-real, HIL
+- **Turing:** controladores RL — sim-to-real, HIL
 
 **Protos UNAL** — Sub-coordinador, Protsen 3.0 *(2025 – Presente)*
-- Dispositivo de rehabilitación de muñeca 4-DOF con ESP32
-- Calibración de arreglos FSR para mapeo de presión en prótesis
 
 **Monitor Académico** — Finanzas e Ingeniería Económica, UNAL *(May 2025 – Presente)*
 
 **Representante Estudiantil** — Ingeniería Mecatrónica *(Mar 2026 – Presente)*
 
-#### Formación
+### Formación
 
 **Ingeniería Mecatrónica** — UNAL *(2021 – Jul 2027)* · GPA 4.6/5.0 · Beca de mérito
-
-**Bachillerato IB** — Colegio San Viator Bilingüe Internacional *(2009 – 2021)*
 
 </details>
 
 <details>
 <summary><b>🇩🇪 Deutsch</b></summary>
 
-#### Spezialisierung
+Student im 10. Semester **Mechatronik** an der **UNAL** — Notendurchschnitt **4,6/5,0**, Leistungsstipendium seit 2025.
 
-- **Robotik & Manipulatoren** — 6-DOF Serienarme, ROS 2, MoveIt 2, URDF, Digitale Zwillinge, HIL
+### Spezialisierung
+
+- **Robotik** — 6-DOF Serienarme, ROS 2, MoveIt 2, URDF, digitale Zwillinge, HIL
 - **Eingebettete Systeme** — ESP32, PIC18F4550, FPGA, Arduino, Raspberry Pi, BLE / LoRaWAN
 - **CAD & Simulation** — Fusion 360, AutoCAD, Inventor, ANSYS FEA/CFD, 3D-Druck
-- **Automatisierung & Regelung** — SPS (Studio 5000), MATLAB/Simulink, PID, SCADA, Grafcet
-- **KI / RL** — Reinforcement Learning für Regelsysteme (RLlib, Gymnasium)
+- **Automatisierung & Regelung** — SPS (Studio 5000), MATLAB/Simulink, PID, SCADA
+- **KI / RL** — Reinforcement Learning für Regelsysteme
 
-#### Erfahrung
+### Erfahrung
 
 **KYMA-Forschungsgruppe** — Robotik-Praktikant *(Feb 2026 – heute)*
-- Apollo: 6-DOF PAROL6 · digitaler Zwilling in ROS 2 + MoveIt 2
-- Turing: RL-Regler · Sim-to-Real · HIL
+Apollo: 6-DOF Manipulator · ROS 2 + MoveIt 2 · Turing: RL-Regler · Sim-to-Real · HIL
 
 **Protos UNAL** — Unterkoordinator Protsen 3.0 *(2025 – heute)*
 
 **Lehrassistent** — Finanzen, UNAL *(Mai 2025 – heute)*
 
-#### Ausbildung
+### Ausbildung
 
 **Mechatronik** — UNAL *(2021 – Jul 2027)* · 4,6/5,0 · Leistungsstipendium seit 2025
 
@@ -131,65 +145,86 @@ GPA 4.6/5.0 · Merit scholarship & honor roll since 2025
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samsanchezcar&show_icons=true&count_private=true&hide_border=true&bg_color=0f1c2e&title_color=7fb3d3&icon_color=2980b9&text_color=e8f4fd&border_radius=8" height="162"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsanchezcar&langs_count=8&layout=compact&hide_border=true&bg_color=0f1c2e&title_color=7fb3d3&text_color=e8f4fd&border_radius=8" height="162"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samsanchezcar&hide_border=true&background=0f1c2e&ring=2980b9&fire=7fb3d3&currStreakLabel=e8f4fd&sideLabels=aed6f1&dates=5d8aa8&stroke=0f1c2e&border_radius=8" width="70%"/>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=samsanchezcar&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" width="94%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samsanchezcar&show_icons=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=7C3AED&text_color=DDD6FE" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsanchezcar&langs_count=8&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=DDD6FE" height="165"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsanchezcar&hide_border=true&background=0d0d1a&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6272a4&stroke=0d0d1a" width="72%"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samsanchezcar&bg_color=0d0d1a&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=1a1a2e&hide_border=true&radius=6" width="97%"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=samsanchezcar&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 </div>
 
 </td>
 
+<!-- ════════ RIGHT COLUMN ════════ -->
 <td width="36%" valign="top">
 
-## Stack
+## 🛠️ Tech Stack
 
 **Languages**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,c,matlab,julia&perline=5&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,matlab,julia&perline=5&theme=dark"/>
 </p>
 
 **Web**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5&theme=dark"/>
 </p>
 
 **Tools**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,latex,arduino&perline=6&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,latex,arduino&perline=6&theme=dark"/>
 </p>
 
 **Design & CAD**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=autocad,blender,ps,ai,figma&perline=5&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=autocad,blender,ps,ai,figma&perline=5&theme=dark"/>
 </p>
 
 **Specialized**
 <p align="center">
-<img src="https://img.shields.io/badge/ROS_2-0f1c2e?style=flat-square&logo=ros&logoColor=7fb3d3"/>
-<img src="https://img.shields.io/badge/MoveIt_2-0f1c2e?style=flat-square&logo=ros&logoColor=5d8aa8"/>
-<img src="https://img.shields.io/badge/ANSYS-0f1c2e?style=flat-square&logo=ansys&logoColor=FFB71B"/>
-<img src="https://img.shields.io/badge/Fusion_360-0f1c2e?style=flat-square&logo=autodesk&logoColor=aed6f1"/>
-<img src="https://img.shields.io/badge/ESP32-0f1c2e?style=flat-square&logo=espressif&logoColor=cf6679"/>
-<img src="https://img.shields.io/badge/FPGA-0f1c2e?style=flat-square&logo=xilinx&logoColor=7fb3d3"/>
-<img src="https://img.shields.io/badge/Simulink-0f1c2e?style=flat-square&logo=mathworks&logoColor=aed6f1"/>
-<img src="https://img.shields.io/badge/Studio_5000-0f1c2e?style=flat-square&logo=siemens&logoColor=aed6f1"/>
+  <img src="https://img.shields.io/badge/ROS_2-1a1a2e?style=flat-square&logo=ros&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/MoveIt_2-1a1a2e?style=flat-square&logo=ros&logoColor=7C3AED"/>
+  <img src="https://img.shields.io/badge/ANSYS-1a1a2e?style=flat-square&logo=ansys&logoColor=FFB71B"/>
+  <img src="https://img.shields.io/badge/Fusion_360-1a1a2e?style=flat-square&logo=autodesk&logoColor=C4B5FD"/>
+  <img src="https://img.shields.io/badge/ESP32-1a1a2e?style=flat-square&logo=espressif&logoColor=E7352C"/>
+  <img src="https://img.shields.io/badge/FPGA-1a1a2e?style=flat-square&logo=xilinx&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Simulink-1a1a2e?style=flat-square&logo=mathworks&logoColor=DDD6FE"/>
+  <img src="https://img.shields.io/badge/Studio_5000-1a1a2e?style=flat-square&logo=siemens&logoColor=C4B5FD"/>
 </p>
 
 ---
 
-## Now
+## 🏆 Achievements
 
-**Active**
-- **Apollo** — 6-DOF PAROL6 arm · ROS 2 + MoveIt 2 twin
-- **Turing** — RL controllers · sim-to-real
-- **Protsen 3.0** — 4-DOF rehab · FSR mapping
+<p align="center">
+  <img src="https://img.shields.io/badge/GPA_4.6%2F5.0-Honor_Roll_%26_Merit_Scholarship-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Robotics_Intern-KYMA_Lab_%C2%B7_UNAL-A78BFA?style=for-the-badge&labelColor=1a1a2e"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Sub--Coordinator-Protos_UNAL-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Teaching_Assistant-Finance_%C2%B7_UNAL-6D28D9?style=for-the-badge&labelColor=1a1a2e"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Student_Rep-Mechatronics_%C2%B7_2026-5B21B6?style=for-the-badge&labelColor=1a1a2e"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Graduation-July_2027-4C1D95?style=for-the-badge&labelColor=1a1a2e"/>
+</p>
 
-**Learning**
+---
+
+## 🎯 Current Focus
+
+**Active Projects**
+- **Apollo** — 6-DOF PAROL6 arm · ROS 2 + MoveIt 2 digital twin
+- **Turing** — RL controllers · sim-to-real deployment
+- **Protsen 3.0** — 4-DOF rehab device · FSR pressure mapping
+
+**Currently Learning**
 - Nonlinear & robust control theory
 - RLlib + Gymnasium for control
 - ROS 2 / MoveIt 2 full stack & HIL
@@ -203,25 +238,7 @@ GPA 4.6/5.0 · Merit scholarship & honor roll since 2025
 
 ---
 
-## Achievements
-
-<p align="center">
-<img src="https://img.shields.io/badge/GPA_4.6%2F5.0-Honor_Roll_%26_Merit_Scholarship-1e4d7b?style=for-the-badge&labelColor=0f1c2e"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Robotics_Intern-KYMA_Lab_·_UNAL-2980b9?style=for-the-badge&labelColor=0f1c2e"/>
-<br/>
-<img src="https://img.shields.io/badge/Sub--Coordinator-Protos_UNAL-1e4d7b?style=for-the-badge&labelColor=0f1c2e"/>
-<br/>
-<img src="https://img.shields.io/badge/Teaching_Assistant-Finance_·_UNAL-1a3354?style=for-the-badge&labelColor=0f1c2e"/>
-<br/>
-<img src="https://img.shields.io/badge/Student_Rep-Mechatronics_·_2026-1a3354?style=for-the-badge&labelColor=0f1c2e"/>
-<br/>
-<img src="https://img.shields.io/badge/Expected_Graduation-July_2027-0f1c2e?style=for-the-badge&labelColor=1a3354"/>
-</p>
-
----
-
-## Quick Facts
+## 💡 Quick Facts
 
 | Hobbies | Languages | OS |
 |:-------:|:---------:|:--:|
@@ -232,15 +249,15 @@ GPA 4.6/5.0 · Merit scholarship & honor roll since 2025
 
 ---
 
-## Connect
+## 📫 Connect
 
 <p align="center">
-<a href="mailto:samsanchezcar@gmail.com"><img src="https://img.shields.io/badge/Email-0f1c2e?style=for-the-badge&logo=gmail&logoColor=7fb3d3"/></a>
-<a href="https://linkedin.com/in/samuel-sanchez-cardenas"><img src="https://img.shields.io/badge/LinkedIn-0f1c2e?style=for-the-badge&logo=linkedin&logoColor=7fb3d3"/></a>
-<a href="https://samsanchezcar.github.io"><img src="https://img.shields.io/badge/Portfolio-0f1c2e?style=for-the-badge&logo=google-chrome&logoColor=7fb3d3"/></a>
-<a href="https://github.com/samsanchezcar"><img src="https://img.shields.io/badge/GitHub-0f1c2e?style=for-the-badge&logo=github&logoColor=7fb3d3"/></a>
-<a href="https://instagram.com/ssz_2206"><img src="https://img.shields.io/badge/Instagram-0f1c2e?style=for-the-badge&logo=instagram&logoColor=7fb3d3"/></a>
-<a href="https://orcid.org/0009-0007-7781-9128"><img src="https://img.shields.io/badge/ORCID-0f1c2e?style=for-the-badge&logo=orcid&logoColor=a6ce39"/></a>
+  <a href="mailto:samsanchezcar@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://linkedin.com/in/samuel-sanchez-cardenas"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/></a>
+  <a href="https://samsanchezcar.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=C4B5FD"/></a>
+  <a href="https://github.com/samsanchezcar"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=DDD6FE"/></a>
+  <a href="https://instagram.com/ssz_2206"><img src="https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=E1306C"/></a>
+  <a href="https://orcid.org/0009-0007-7781-9128"><img src="https://img.shields.io/badge/ORCID-1a1a2e?style=for-the-badge&logo=orcid&logoColor=A6CE39"/></a>
 </p>
 
 </td>
@@ -249,9 +266,13 @@ GPA 4.6/5.0 · Merit scholarship & honor roll since 2025
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Click+any+demo+to+open+the+repository+%F0%9F%94%97" alt="hint"/>
+
+<br/><br/>
 
 <table>
 <tr>
@@ -259,14 +280,14 @@ GPA 4.6/5.0 · Merit scholarship & honor roll since 2025
 
 ### PhantomX Pincher X100 — ROS 2 & OpenCV
 
-Serial manipulator with machine vision — shape detection, classification, and autonomous pick & place over a distributed ROS 2 architecture.
+Serial manipulator with machine vision: shape detection, classification, and autonomous pick & place over a distributed ROS 2 architecture.
 
 [![demo](src/Phantom.gif)](https://github.com/samsanchezcar/Phantom_X_Pincher_ROS2_OpenCV)
 
-<img src="https://img.shields.io/badge/ROS_2-0f1c2e?style=flat-square&logo=ros&logoColor=7fb3d3"/>
-<img src="https://img.shields.io/badge/OpenCV-0f1c2e?style=flat-square&logo=opencv&logoColor=5d8aa8"/>
-<img src="https://img.shields.io/badge/MoveIt_2-0f1c2e?style=flat-square&logo=ros&logoColor=aed6f1"/>
-<img src="https://img.shields.io/badge/Python-0f1c2e?style=flat-square&logo=python&logoColor=7fb3d3"/>
+<img src="https://img.shields.io/badge/ROS_2-1a1a2e?style=flat-square&logo=ros&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/OpenCV-1a1a2e?style=flat-square&logo=opencv&logoColor=7C3AED"/>
+<img src="https://img.shields.io/badge/MoveIt_2-1a1a2e?style=flat-square&logo=ros&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=A78BFA"/>
 
 **[View Repository →](https://github.com/samsanchezcar/Phantom_X_Pincher_ROS2_OpenCV)**
 
@@ -279,8 +300,8 @@ Trajectory planning, workspace analysis and kinematic visualization for serial m
 
 [![demo](src/Matlab_vis.gif)](https://github.com/samsanchezcar/Phantom_X_Pincher_ROS2_OpenCV)
 
-<img src="https://img.shields.io/badge/MATLAB-0f1c2e?style=flat-square&logo=mathworks&logoColor=7fb3d3"/>
-<img src="https://img.shields.io/badge/Robotics_Toolbox-0f1c2e?style=flat-square&logo=mathworks&logoColor=aed6f1"/>
+<img src="https://img.shields.io/badge/MATLAB-1a1a2e?style=flat-square&logo=mathworks&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Robotics_Toolbox-1a1a2e?style=flat-square&logo=mathworks&logoColor=C4B5FD"/>
 
 **[View Repository →](https://github.com/samsanchezcar/Phantom_X_Pincher_ROS2_OpenCV)**
 
@@ -295,9 +316,9 @@ Multi-axis forming (3-DOF + conveyor), trapezoidal motion profiles in MATLAB, La
 
 [![demo](src/Box-forming.gif)](https://github.com/samsanchezcar/Box-forming-PLC-NX)
 
-<img src="https://img.shields.io/badge/Studio_5000-0f1c2e?style=flat-square&logo=siemens&logoColor=7fb3d3"/>
-<img src="https://img.shields.io/badge/MATLAB-0f1c2e?style=flat-square&logo=mathworks&logoColor=5d8aa8"/>
-<img src="https://img.shields.io/badge/Siemens_NX-0f1c2e?style=flat-square&logo=siemens&logoColor=aed6f1"/>
+<img src="https://img.shields.io/badge/Studio_5000-1a1a2e?style=flat-square&logo=siemens&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/MATLAB-1a1a2e?style=flat-square&logo=mathworks&logoColor=7C3AED"/>
+<img src="https://img.shields.io/badge/Siemens_NX-1a1a2e?style=flat-square&logo=siemens&logoColor=C4B5FD"/>
 
 **[View Repository →](https://github.com/samsanchezcar/Box-forming-PLC-NX)**
 
@@ -310,9 +331,9 @@ Figure tracing on a conveyor — RobotStudio, RAPID programming, custom 3D-print
 
 [![demo](src/Real.gif)](https://github.com/samsanchezcar/robotic-ABB)
 
-<img src="https://img.shields.io/badge/RobotStudio-0f1c2e?style=flat-square&logoColor=7fb3d3"/>
-<img src="https://img.shields.io/badge/RAPID-0f1c2e?style=flat-square&logoColor=5d8aa8"/>
-<img src="https://img.shields.io/badge/3D_Printing-0f1c2e?style=flat-square&logoColor=aed6f1"/>
+<img src="https://img.shields.io/badge/RobotStudio-1a1a2e?style=flat-square&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/RAPID-1a1a2e?style=flat-square&logoColor=7C3AED"/>
+<img src="https://img.shields.io/badge/3D_Printing-1a1a2e?style=flat-square&logoColor=C4B5FD"/>
 
 **[View Repository →](https://github.com/samsanchezcar/robotic-ABB)**
 
@@ -331,13 +352,13 @@ Figure tracing on a conveyor — RobotStudio, RAPID programming, custom 3D-print
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2980b9,1e4d7b,1a3354,0f1c2e&height=120&section=footer&text=Thanks+for+visiting&fontSize=18&fontAlignY=65&fontColor=e8f4fd&desc=Let%27s+build+something+meaningful+together&descSize=12&descAlignY=82&descColor=7fb3d3&animation=fadeIn" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-*"Innovation is born from the passion to learn and the desire to improve the world, one project at a time."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1200&color=7C3AED&center=true&vCenter=true&width=800&lines=%F0%9F%92%A1+%22Innovation+is+born+from+the+passion+to+learn...%22;%22...+and+the+desire+to+improve+the+world%2C+one+project+at+a+time.%22" alt="Quote"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/made%20by-Samuel%20David%20Sanchez-1e4d7b?style=flat-square&labelColor=0f1c2e"/>
+<img src="https://img.shields.io/badge/Made_with_%E2%9D%A4%EF%B8%8F_by-Samuel_David-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
 
 <br/><br/>
 

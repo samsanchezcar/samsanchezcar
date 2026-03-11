@@ -1,19 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1c2e,30:1a3354,60:1e4d7b,100:2980b9&height=200&section=header&text=REPO-NAME&fontSize=36&fontAlignY=45&fontColor=e8f4fd&animation=fadeIn&desc=Short+one-line+description+of+the+project&descSize=15&descAlignY=65&descColor=aed6f1" width="100%"/>
+<!-- ═══════════ HEADER ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=90&lines=REPO+NAME;Short+one-line+description" alt="Header"/>
 
 <br/>
 
-<!-- STATUS BADGES — update as needed -->
-<img src="https://img.shields.io/badge/Status-Active-2980b9?style=flat-square&labelColor=0f1c2e"/>
-<img src="https://img.shields.io/badge/Language-Python-0f1c2e?style=flat-square&logo=python&logoColor=7fb3d3"/>
-<img src="https://img.shields.io/badge/Platform-ROS_2-0f1c2e?style=flat-square&logo=ros&logoColor=7fb3d3"/>
-<img src="https://img.shields.io/badge/License-MIT-1e4d7b?style=flat-square&labelColor=0f1c2e"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- STATUS BADGES — update to match your project -->
+<img src="https://img.shields.io/badge/Status-Active-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Language-Python-1a1a2e?style=flat-square&logo=python&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Platform-ROS_2-1a1a2e?style=flat-square&logo=ros&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/License-MIT-4C1D95?style=flat-square&labelColor=1a1a2e"/>
 
 <br/><br/>
 
-<a href="https://github.com/samsanchezcar"><img src="https://img.shields.io/badge/Author-samsanchezcar-0f1c2e?style=flat-square&logo=github&logoColor=7fb3d3"/></a>
-<a href="https://samsanchezcar.github.io"><img src="https://img.shields.io/badge/Portfolio-samsanchezcar.github.io-0f1c2e?style=flat-square&logo=google-chrome&logoColor=7fb3d3"/></a>
+<a href="https://github.com/samsanchezcar">
+  <img src="https://img.shields.io/badge/Author-samsanchezcar-1a1a2e?style=flat-square&logo=github&logoColor=A78BFA"/>
+</a>
+<a href="https://samsanchezcar.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-samsanchezcar.github.io-1a1a2e?style=flat-square&logo=google-chrome&logoColor=C4B5FD"/>
+</a>
 
 </div>
 
@@ -21,12 +30,12 @@
 
 ## Overview
 
-> One paragraph describing what this project is, what problem it solves, and why it matters. Keep it concise and direct — no buzzwords.
+> One paragraph. What it is, what problem it solves, why it matters. Direct, no buzzwords.
 
 **Key highlights:**
-- Highlight 1 — what makes this project technically interesting
+- Highlight 1 — what makes this technically interesting
 - Highlight 2 — main result or achievement
-- Highlight 3 — real-world context or application
+- Highlight 3 — real-world context
 
 ---
 
@@ -34,7 +43,6 @@
 
 <div align="center">
 
-<!-- Replace with your actual demo GIF or image -->
 <img src="docs/demo.gif" width="80%" alt="Project Demo"/>
 
 *Caption describing what the demo shows*
@@ -61,20 +69,17 @@
 
 ## Features
 
-- **Feature 1** — brief description
-- **Feature 2** — brief description
-- **Feature 3** — brief description
-- **Feature 4** — brief description
+- **Feature 1** — description
+- **Feature 2** — description
+- **Feature 3** — description
 
 ---
 
 ## Architecture
 
-> Describe the system architecture, pipeline, or design decisions. Use a diagram if applicable.
-
 ```
 ┌─────────────────────────────────────────────┐
-│                 SYSTEM NAME                 │
+│               SYSTEM NAME                   │
 ├──────────────┬──────────────┬───────────────┤
 │   Module A   │   Module B   │   Module C    │
 │  (describe)  │  (describe)  │  (describe)   │
@@ -89,10 +94,12 @@
 ## Requirements
 
 <div align="center">
-<!-- Update badges to match your actual stack -->
-<img src="https://img.shields.io/badge/Python-3.10+-0f1c2e?style=flat-square&logo=python&logoColor=7fb3d3"/>
-<img src="https://img.shields.io/badge/ROS_2-Humble-0f1c2e?style=flat-square&logo=ros&logoColor=7fb3d3"/>
-<img src="https://img.shields.io/badge/Ubuntu-22.04-0f1c2e?style=flat-square&logo=ubuntu&logoColor=aed6f1"/>
+
+<!-- Update to match your actual stack -->
+<img src="https://img.shields.io/badge/Python-3.10+-1a1a2e?style=flat-square&logo=python&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/ROS_2-Humble-1a1a2e?style=flat-square&logo=ros&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Ubuntu-22.04-1a1a2e?style=flat-square&logo=ubuntu&logoColor=C4B5FD"/>
+
 </div>
 
 <br/>
@@ -100,71 +107,47 @@
 **Software**
 - Dependency 1 `vX.X`
 - Dependency 2 `vX.X`
-- Dependency 3 `vX.X`
 
 **Hardware** *(if applicable)*
-- Hardware component 1
-- Hardware component 2
+- Component 1
+- Component 2
 
 ---
 
 ## Installation
 
 ```bash
-# 1. Clone the repository
+# 1. Clone
 git clone https://github.com/samsanchezcar/REPO-NAME.git
 cd REPO-NAME
 
 # 2. Install dependencies
 pip install -r requirements.txt
-# or
-sudo apt install ...
 
-# 3. Additional setup steps
+# 3. Additional setup
 ...
 ```
-
-> **Note:** Add any important notes about environment setup, virtual environments, or OS-specific steps here.
 
 ---
 
 ## Usage
 
-### Basic Usage
-
 ```bash
-# Run the main script
+# Basic
 python main.py
 
 # With arguments
 python main.py --arg1 value1 --arg2 value2
 ```
 
-### Advanced Usage
-
-```bash
-# Example of a more complex command
-python main.py --config config/settings.yaml --verbose
-```
-
-> Describe what each command does. Add screenshots or GIFs for GUI-based tools.
-
 ---
 
 ## Results
 
-> Present your key results here — quantitative metrics, plots, tables, or qualitative observations.
-
 | Metric | Value | Notes |
 |:------:|:-----:|:-----:|
-| Metric 1 | X.XX | Brief note |
-| Metric 2 | X.XX | Brief note |
-| Metric 3 | X.XX | Brief note |
-
-<div align="center">
-<!-- Add results figures here -->
-<!-- <img src="docs/results.png" width="80%"/> -->
-</div>
+| Metric 1 | X.XX | note |
+| Metric 2 | X.XX | note |
 
 ---
 
@@ -172,14 +155,11 @@ python main.py --config config/settings.yaml --verbose
 
 ```
 REPO-NAME/
-├── src/                    # Source code
-│   ├── module_a/
-│   └── module_b/
-├── docs/                   # Documentation and assets
+├── src/                  # Source code
+├── docs/                 # Documentation & assets
 │   └── demo.gif
-├── config/                 # Configuration files
-│   └── settings.yaml
-├── tests/                  # Unit and integration tests
+├── config/               # Config files
+├── tests/                # Tests
 ├── requirements.txt
 ├── README.md
 └── LICENSE
@@ -189,26 +169,28 @@ REPO-NAME/
 
 ## References
 
-- [Reference 1](https://link.to/paper) — Author, Year
-- [Reference 2](https://link.to/docs) — Tool/library documentation
-- [Reference 3](https://link.to/resource) — Related resource
+- [Reference 1](https://link) — Author, Year
+- [Reference 2](https://link) — Documentation
+- [Reference 3](https://link) — Related resource
 
 ---
 
-## Author
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2980b9,1e4d7b,1a3354,0f1c2e&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 **Samuel David Sanchez Cardenas**
 Mechatronics Engineering · UNAL · Bogotá, Colombia
 
-<a href="mailto:samsanchezcar@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f1c2e?style=flat-square&logo=gmail&logoColor=7fb3d3"/></a>
-<a href="https://linkedin.com/in/samuel-sanchez-cardenas"><img src="https://img.shields.io/badge/LinkedIn-0f1c2e?style=flat-square&logo=linkedin&logoColor=7fb3d3"/></a>
-<a href="https://github.com/samsanchezcar"><img src="https://img.shields.io/badge/GitHub-0f1c2e?style=flat-square&logo=github&logoColor=7fb3d3"/></a>
-<a href="https://samsanchezcar.github.io"><img src="https://img.shields.io/badge/Portfolio-0f1c2e?style=flat-square&logo=google-chrome&logoColor=7fb3d3"/></a>
+<a href="mailto:samsanchezcar@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1a2e?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://linkedin.com/in/samuel-sanchez-cardenas"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=A78BFA"/></a>
+<a href="https://github.com/samsanchezcar"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=DDD6FE"/></a>
+<a href="https://samsanchezcar.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=flat-square&logo=google-chrome&logoColor=C4B5FD"/></a>
 
-*Part of the [samsanchezcar](https://github.com/samsanchezcar) project ecosystem*
+<br/>
+
+<img src="https://img.shields.io/badge/Made_with_%E2%9D%A4%EF%B8%8F_by-Samuel_David-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
+
+<sub>Part of the <a href="https://github.com/samsanchezcar">samsanchezcar</a> project ecosystem</sub>
 
 </div>
