@@ -310,7 +310,7 @@ Figure tracing on a conveyor — RobotStudio, RAPID programming, custom 3D-print
 
 </div>
 
-<img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/divider.svg" width="100%" alt="divider"/>
 <div align="center">
+  <img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/divider.svg" width="100%" alt="divider"/>
   <img src="https://raw.githubusercontent.com/samsanchezcar/assets/main/footer.svg" width="100%" alt="Footer"/>
 </div>
