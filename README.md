@@ -32,7 +32,7 @@
 
 I'm a 10th-semester **Mechatronics Engineering** student at the **National University of Colombia (UNAL)** — GPA **4.6/5.0**, merit scholarship and honor roll since 2025. I build at the crossroads of mechanical design, electronics, and software: things that physically exist and intelligently behave.
 
-Currently a **🔬 Robotics Research Intern at KYMA Lab**, running two parallel projects — a 6-DOF serial manipulator with a full ROS 2 + MoveIt 2 digital twin (Apollo), and RL-based controllers for industrial plants (Turing). I also co-lead **🦾 Protsen 3.0** at Protos UNAL — a 4-DOF wrist rehabilitation device with FSR pressure mapping.
+Currently a **🔬 Robotics Research Intern at KYMA Lab**, running two parallel projects — a 6-DOF serial manipulator with a full ROS 2 + MoveIt 2 digital twin (Apolo), and RL-based controllers for industrial plants (Turing). I also co-lead **🦾 Protsen 3.0** at Protos UNAL — a 4-DOF wrist rehabilitation device with FSR pressure mapping.
 
 ### 🎯 Specialization
 
@@ -45,7 +45,7 @@ Currently a **🔬 Robotics Research Intern at KYMA Lab**, running two parallel 
 ### 🏢 Experience
 
 **🔬 KYMA Research Group** — Robotics Research Intern *(Feb 2026 – Present)*
-- **Apollo:** 6-DOF PAROL6 arm — full CAD, 3D printing, mechatronic integration, digital twin in ROS 2 + MoveIt 2
+- **Apolo:** 6-DOF PAROL6 arm — full CAD, 3D printing, mechatronic integration, digital twin in ROS 2 + MoveIt 2
 - **Turing:** RL controllers for industrial plant control — sim-to-real transfer, HIL experiments
 
 **🦾 Protos UNAL** — Sub-coordinator, Protsen 3.0 *(2025 – Present)*
@@ -111,7 +111,7 @@ Student im 10. Semester **Mechatronik** an der **UNAL** — Notendurchschnitt **
 ### 🏢 Erfahrung
 
 **🔬 KYMA** — Robotik-Praktikant *(Feb 2026 – heute)*
-Apollo: 6-DOF PAROL6 · ROS 2 + MoveIt 2 · Turing: RL-Regler · Sim-to-Real · HIL
+Apolo: 6-DOF PAROL6 · ROS 2 + MoveIt 2 · Turing: RL-Regler · Sim-to-Real · HIL
 
 **🦾 Protos UNAL** — Unterkoordinator Protsen 3.0 *(2025 – heute)*
 
@@ -189,7 +189,7 @@ Apollo: 6-DOF PAROL6 · ROS 2 + MoveIt 2 · Turing: RL-Regler · Sim-to-Real · 
 ## 🎯 Current Focus
 
 **🔬 Active Projects**
-- **Apollo** — 6-DOF PAROL6 arm · ROS 2 + MoveIt 2 digital twin
+- **Apolo** — 6-DOF PAROL6 arm · ROS 2 + MoveIt 2 digital twin
 - **Turing** — RL controllers · sim-to-real deployment
 - **Protsen 3.0** — 4-DOF rehab device · FSR pressure mapping
 
@@ -200,7 +200,7 @@ Apollo: 6-DOF PAROL6 · ROS 2 + MoveIt 2 · Turing: RL-Regler · Sim-to-Real · 
 - AWS · Google Cloud Platform
 
 **🏁 Goals 2027**
-- ✅ Apollo: build, test & document
+- ✅ Apolo: build, test & document
 - ✅ Turing: deploy & validate
 - 📝 Publish Turing project research paper
 - 🎓 Graduate · GPA 4.6+
